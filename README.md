@@ -29,8 +29,8 @@
 <h6 style="color: gray;">Developed by Muhammad Sumair</h6>
 
 <h2>Project Diagrams</h2>
-<img src="https://github.com/sumair-ce/AMBA-verilog-Computer-System-Architecture/blob/main/S1.png?raw=true" style="width: 400px; height: auto;" />
-<img src="https://github.com/sumair-ce/AMBA-verilog-Computer-System-Architecture/blob/main/S2.png?raw=true" style="width: 400px; height: auto; margin-top: 20px;" />
+<img src="https://github.com/sumair-ce/AMBA-verilog-Computer-System-Architecture/blob/main/S1.png?raw=true" style= "height: auto;" />
+<img src="https://github.com/sumair-ce/AMBA-verilog-Computer-System-Architecture/blob/main/S2.png?raw=true" style="height: auto; margin-top: 20px;" />
 
 </body>
 </html>
