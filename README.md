@@ -8,7 +8,7 @@
 
 <h1 align="center">AMBA Protocol Design and Implementation</h1>
 
-<p>AMBA - Advanced dMicrocontroller Bus Architecture</p>
+<p>AMBA - Advanced Microcontroller Bus Architecture</p>
 <p>This project involves the design and implementation of an AMBA-based system on an FPGA, utilizing both AHB and APB protocols for efficient communication in SoC.</p>
 
 <h2>Features</h2>
