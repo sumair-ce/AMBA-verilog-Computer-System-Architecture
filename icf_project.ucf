@@ -1,0 +1,26 @@
+ NET "clk2" LOC="V10";
+
+NET "sel<0>" LOC="N8";
+NET "sel<1>" LOC="U8";
+NET "sel<2>" LOC="V8";
+
+NET "wr" LOC="V9";
+NET "enable" LOC="M8";
+NET "sw<1>" LOC="T5";
+NET "sw<0>" LOC="T9";
+
+NET "LED_OUT<6>" LOC = "T17";
+NET "LED_OUT<5>" LOC = "T18";
+NET "LED_OUT<4>" LOC = "U17";
+NET "LED_OUT<3>" LOC = "U18";
+NET "LED_OUT<2>" LOC = "M14";
+NET "LED_OUT<1>" LOC = "N14";
+NET "LED_OUT<0>" LOC = "L14";
+
+NET "ENABLE<0>" LOC="N16";
+NET "ENABLE<1>" LOC="N15";
+NET "ENABLE<2>" LOC="P18";
+NET "ENABLE<3>" LOC="P17";
+
+NET "hclk" LOC="T10";
+NET "hclk" CLOCK_DEDICATED_ROUTE= FALSE;
